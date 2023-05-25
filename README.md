@@ -6,7 +6,7 @@
 - 👀 I’m interested in Learning. I mean it in every way. My brain doesnt stop thinking or tinkering on my area of interests.
 - 🌱 I don't know any programming language.
 - 📗 I'm looking forward to learn and improve my functional workflow.
-- 💜 100% Emacs Lover. Emacs Everywhere!.
+- 💜 100% Emacs Lover. Emacs is my Second 🧠 Brain!.
 - ❄️ NixOS User.
 
 Bookmark this, cause in future this will turn out to be alot improved!
