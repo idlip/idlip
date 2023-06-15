@@ -1,12 +1,14 @@
   
 /They say human can never be perfect, so I make my machine work perfect/.
 
-- 👋 Hi, you have found me!
+- 👋 Hello & Warm welcome to you!
 - 👀 I’m interested in Learning. I mean it in every way. My brain doesn't stop thinking or tinkering on my area of interests.
-- 🌱 I don't know any programming language.
-- 📗 I'm looking forward to learn and improve my functional workflow.
+- *>_* I love Shell Scripting.
+- *()* Elisp for parenthesized Extensibility.
+- 🌱 I'm looking forward to learn and improve my functional workflow.
 - 💜 100% *Emacs* Lover. 
 - 🧠 Emacs is my Second Brain!
-- ❄️ *NixOS* User.
+- ❄️ *NixOS* User. Nix to Unify the tech!
+- 🍙 OnePiece for Life.
 
 Bookmark this, cause in future this will turn out to be a lot improved!
