@@ -10,4 +10,6 @@
 - 🧠 Emacs is my Second Brain!
 - ❄️ *NixOS* User. Nix to Unify the tech!
 - 🍙 OnePiece for Life.
+- 🔬 I'm learning 🐍 Python and 📐 R, that too from only reading official Manual!
 
+  [[https://idlip.github.io][Blog Site]]
