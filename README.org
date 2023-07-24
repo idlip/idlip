@@ -1,5 +1,7 @@
   
-/They say human can never be perfect, so I make my machine work perfect/.
+#+begin_quote
+/They say human can never be perfect, so I make my machine work perfect./
+#+end_quote
 
 - 👋 Hello & Warm welcome to you!
 - 👀 I’m interested in Learning. I mean it in every way. My brain doesn't stop thinking or tinkering on my area of interests.
