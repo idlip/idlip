@@ -1,4 +1,4 @@
-  
+
 #+begin_quote
 /They say human can never be perfect, so I make my machine work perfect./
 #+end_quote
@@ -8,10 +8,10 @@
 - *>_* I love Shell Scripting.
 - *()* Elisp for parenthesized Extensibility.
 - 🌱 I'm looking forward to learn and improve my functional workflow.
-- 💜 100% *Emacs* Lover. 
+- 💜 100% *Emacs* Lover.
 - 🧠 Emacs is my Second Brain!
 - ❄️ *NixOS* User. Nix to Unify the tech!
 - 🍙 OnePiece for Life.
-- 🔬 I'm learning 🐍 Python and 📐 R, that too from only reading official Manual!
+- 🔬 I'm learning 🐍 Python, 📐 R & Julia
 
   [[https://idlip.github.io][Blog Site]]
